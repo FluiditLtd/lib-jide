@@ -42,11 +42,11 @@
     <distributionManagement>
         <repository>
             <id>fluidit-gitlab-maven</id>
-            <url>https://git.fluidit.fi/api/v4/projects/48/packages/maven</url>
+            <url>https://git.fluidit.fi/api/v4/projects/63/packages/maven</url>
         </repository>
         <snapshotRepository>
             <id>fluidit-gitlab-maven</id>
-            <url>https://git.fluidit.fi/api/v4/projects/48/packages/maven</url>
+            <url>https://git.fluidit.fi/api/v4/projects/63/packages/maven</url>
         </snapshotRepository>
     </distributionManagement>
 
